@@ -1,6 +1,6 @@
 // Define app ID and app key
-const app_id = "38418589";
-const app_key = "6e344a72b040c0a8776bb69517005b9d";
+const app_id = "4764fb14";
+const app_key = "cf8fa51343d68c742e43567a2e665980";
 
 // Get button and cards section elements
 const button = document.querySelector("button");
